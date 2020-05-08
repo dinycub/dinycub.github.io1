@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: about
 title: 关于
 description: >
  dinycub
