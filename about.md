@@ -1,6 +1,6 @@
 ---
 layout: 关于
-title: dinycub
+title: 关于
 description: >
  dinycub
 menu: true
