@@ -2,6 +2,6 @@
 layout: about
 title: About
 description: >
- menu: true
+menu: true
 order: 4
 ---
