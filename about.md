@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: 关于
 description: >
  只是一个普通的学生。
 menu: true
