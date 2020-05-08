@@ -1,7 +1,8 @@
 ---
 layout: about
-title: 关于
+title: about
 description: >
+只是一个普通的学生。
  menu: true
 order: 4
 ---
