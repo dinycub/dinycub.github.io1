@@ -16,21 +16,21 @@ posts:                 页面
 about:                 关于
 related_posts:         Related Posts
 other_projects:        Other Projects
-comments:              Comments
+comments:              评论
 jump_to:               跳转到
 navigation:            Navigation
 social:                Social
-links:                 Links
+links:                 链接
 pagination:            Pagination
 newer:                 Newer
 older:                 Older
-back:                  Back
+back:                  返回
 permalink:             Permalink
 permalink_icon:        icon-link
 templates:             Templates (for web app)
 
 loading:               加载中…
-redirecting:           Redirecting…
+redirecting:           重定向…
 
 continue_reading:      >
   Continue reading <!--post_title-->
