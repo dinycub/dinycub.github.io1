@@ -43,9 +43,9 @@ cookies_banner:
 not_found:
   title:               '404: Page Not Found'
   message:             |
-    Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <!--home_link--> to try finding it again.
-  home_link:           Head back home
+    很抱歉，这有可能是我们错误地放置了此链接，或者是你输错网址了。回
+    <!--home_link--> 
+  home_link:           首页
 
 error:
   title:               Error
