@@ -1,8 +1,7 @@
 ---
 layout: about
-title: about
+title: About
 description: >
-memu:true
+ menu: true
 order: 4
 ---
-
