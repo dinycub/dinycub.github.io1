@@ -50,7 +50,7 @@ not_found:
 error:
   title:               Error
   message:             |
-    Sorry, an error occurred while loading <!--link-->.
+    抱歉，加载 <!--link-->时出现了一个意外错误。
 
 # Separators
 # ---------------------------------------------------------------------------------------
