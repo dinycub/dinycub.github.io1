@@ -41,7 +41,7 @@ cookies_banner:
   okay:                Okay
 
 not_found:
-  title:               '404: Page Not Found'
+  title:               '404：此页面不存在'
   message:             |
     很抱歉，这有可能是我们错误地放置了此链接，或者是你输错网址了。请
     <!--home_link--> 或刷新重试。
